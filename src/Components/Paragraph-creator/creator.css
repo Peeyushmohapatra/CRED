@@ -1,0 +1,12 @@
+.smallLine{
+    color: white;
+    font-size: medium;
+    font-family: system-ui, "Segoe UI", Roboto, Oxygen, "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+}
+
+.bigLine{
+    color: rgb(143,143,143);
+    font-size: medium;
+    font-family: system-ui, "Segoe UI", Roboto, Oxygen, "Open Sans", "Helvetica Neue", sans-serif;
+}

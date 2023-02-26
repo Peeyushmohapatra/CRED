@@ -1,0 +1,42 @@
+.phoneContainer {
+  height: 800px;
+  width: 100%;
+  background-color: black;
+  position: relative;
+  overflow: hidden;
+}
+
+.image {
+  position: absolute;
+}
+
+.image1 {
+    left: 200px;
+    height: 80%;
+    bottom: 0px;
+}
+
+.image4 {
+  left: 780px;
+  height: 90%;
+  bottom: 0px;
+}
+
+.image2 {
+    left: 400px;
+    height: 90%;
+    bottom: 0px;
+  }
+
+
+.image3{
+    left: 580px;
+    height: 100%;
+    bottom: 0px;
+}
+
+.image5 {
+  left: 1000px;
+  height: 80%;
+  bottom: 0;
+}

@@ -1,0 +1,14 @@
+.aboutCred{
+    height: 800px;
+    background-color: rgb(36,36,36);
+    padding: 80px 180px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.upperContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
